@@ -26,7 +26,7 @@ You can ask me about **React, JavaScript, Git, and UI development**.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr__jai_s)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-ganesh-s-2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-ganesh-s2004/)
 [![Naukri](https://img.shields.io/badge/Naukri-005BAC?logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaiganesh2004@gmail.com)
 
