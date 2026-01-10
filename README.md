@@ -10,7 +10,7 @@
 
 
 
-# 💫 About Me
+#  About Me
 
 I’m currently working on frontend projects using **React.js**, focusing on building clean, responsive, and user-friendly interfaces.
 
